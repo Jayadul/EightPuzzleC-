@@ -1,0 +1,7 @@
+C:\Users\SoftifyBD-Shuvo\Desktop\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.exe.config
+C:\Users\SoftifyBD-Shuvo\Desktop\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.exe
+C:\Users\SoftifyBD-Shuvo\Desktop\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.pdb
+C:\Users\SoftifyBD-Shuvo\Desktop\EightPuzzle\EightPuzzle\obj\Debug\EightPuzzle.csprojAssemblyReference.cache
+C:\Users\SoftifyBD-Shuvo\Desktop\EightPuzzle\EightPuzzle\obj\Debug\EightPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\SoftifyBD-Shuvo\Desktop\EightPuzzle\EightPuzzle\obj\Debug\EightPuzzle.exe
+C:\Users\SoftifyBD-Shuvo\Desktop\EightPuzzle\EightPuzzle\obj\Debug\EightPuzzle.pdb
